@@ -1,0 +1,86 @@
+2016-10-28 09:46:31 [stepDefinitions.AttachHooks] INFO :: Inside set up method of before hook
+2016-10-28 09:46:31 [stepDefinitions.AttachHooks] INFO :: Inside set up method of before hook
+2016-10-28 09:46:31 [stepDefinitions.AttachHooks] INFO :: Inside set up method of before hook
+2016-10-28 09:46:31 [stepDefinitions.AttachHooks] INFO :: Inside set up method of before hook
+2016-10-28 09:46:31 [stepDefinitions.AttachHooks] INFO :: Inside set up method of before hook
+2016-10-28 09:46:31 [stepDefinitions.AttachHooks] INFO :: Inside set up method of before hook
+2016-10-28 09:46:42 [stepDefinitions.AttachHooks] INFO :: Inside set up method of before hook
+2016-10-28 09:47:31 [stepDefinitions.AttachHooks] INFO :: Inside set up method of before hook
+2016-10-28 09:48:16 [stepDefinitions.AttachHooks] INFO :: Inside set up method of before hook
+2016-10-28 09:53:13 [stepDefinitions.AttachHooks] INFO :: Inside set up method of before hook
+2016-10-28 09:53:13 [stepDefinitions.AttachHooks] INFO :: Inside set up method of before hook
+2016-10-28 09:53:13 [stepDefinitions.AttachHooks] INFO :: Inside set up method of before hook
+2016-10-28 09:53:13 [stepDefinitions.AttachHooks] INFO :: Inside set up method of before hook
+2016-10-28 09:53:13 [stepDefinitions.AttachHooks] INFO :: Inside set up method of before hook
+2016-10-28 09:53:13 [stepDefinitions.AttachHooks] INFO :: Inside set up method of before hook
+2016-10-28 09:54:28 [stepDefinitions.AttachHooks] INFO :: Inside set up method of before hook
+2016-10-28 09:57:12 [stepDefinitions.AttachHooks] INFO :: Inside set up method of before hook
+2016-10-28 10:08:56 [stepDefinitions.AttachHooks] INFO :: Inside set up method of before hook
+2016-10-28 10:12:00 [stepDefinitions.AttachHooks] INFO :: Inside set up method of before hook
+2016-10-28 10:12:16 [pages.LoginPage] ERROR:: topframe not visible
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'stpl-pc75', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.13.0-32-generic', java.version: '1.8.0_45'
+Driver info: driver.version: unknown
+2016-10-28 11:04:29 [stepDefinitions.AttachHooks] INFO :: Inside set up method of before hook
+2016-10-28 11:04:41 [pages.LoginPage] ERROR:: topframe not visible
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'stpl-pc75', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.13.0-32-generic', java.version: '1.8.0_45'
+Driver info: driver.version: unknown
+2016-10-28 11:04:46 [stepDefinitions.AttachHooks] INFO :: Inside set up method of before hook
+2016-11-02 10:24:40 [stepDefinitions.AttachHooks] INFO :: Inside set up method of before hook
+2016-11-02 10:25:00 [pages.LoginPage] ERROR:: topframe not visible
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'stpl-pc75', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.13.0-32-generic', java.version: '1.8.0_45'
+Driver info: driver.version: unknown
+2016-11-02 10:25:29 [stepDefinitions.AttachHooks] INFO :: Inside set up method of before hook
+2016-11-02 10:25:46 [stepDefinitions.AttachHooks] INFO :: Inside set up method of before hook
+2016-11-02 10:26:13 [pages.LoginPage] ERROR:: topframe not visible
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'stpl-pc75', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.13.0-32-generic', java.version: '1.8.0_45'
+Driver info: driver.version: unknown
+2016-11-02 10:26:13 [stepDefinitions.AttachHooks] INFO :: Inside set up method of before hook
+2016-11-02 10:26:39 [pages.LoginPage] ERROR:: topframe not visible
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'stpl-pc75', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.13.0-32-generic', java.version: '1.8.0_45'
+Driver info: driver.version: unknown
+2016-11-02 10:26:39 [stepDefinitions.AttachHooks] INFO :: Inside set up method of before hook
+2016-11-02 10:27:06 [pages.LoginPage] ERROR:: topframe not visible
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'stpl-pc75', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.13.0-32-generic', java.version: '1.8.0_45'
+Driver info: driver.version: unknown
+2016-11-02 10:27:26 [stepDefinitions.AttachHooks] INFO :: Inside set up method of before hook
+2016-11-02 10:27:53 [pages.LoginPage] ERROR:: topframe not visible
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'stpl-pc75', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.13.0-32-generic', java.version: '1.8.0_45'
+Driver info: driver.version: unknown
+2016-11-02 10:28:13 [stepDefinitions.AttachHooks] INFO :: Inside set up method of before hook
+2016-11-02 10:28:40 [pages.LoginPage] ERROR:: topframe not visible
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'stpl-pc75', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.13.0-32-generic', java.version: '1.8.0_45'
+Driver info: driver.version: unknown
+2016-11-04 10:28:06 [stepDefinitions.AttachHooks] INFO :: Inside set up method of before hook
+2016-11-04 10:28:25 [stepDefinitions.AttachHooks] INFO :: Inside set up method of before hook
+2016-11-04 10:28:52 [pages.LoginPage] ERROR:: topframe not visible
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'stpl-pc75', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.13.0-32-generic', java.version: '1.8.0_45'
+Driver info: driver.version: unknown
+2016-11-04 10:28:52 [stepDefinitions.AttachHooks] INFO :: Inside set up method of before hook
+2016-11-04 10:29:18 [pages.LoginPage] ERROR:: topframe not visible
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'stpl-pc75', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.13.0-32-generic', java.version: '1.8.0_45'
+Driver info: driver.version: unknown
+2016-11-04 10:29:18 [stepDefinitions.AttachHooks] INFO :: Inside set up method of before hook
+2016-11-04 10:29:45 [pages.LoginPage] ERROR:: topframe not visible
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'stpl-pc75', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.13.0-32-generic', java.version: '1.8.0_45'
+Driver info: driver.version: unknown
+2016-11-04 10:30:05 [stepDefinitions.AttachHooks] INFO :: Inside set up method of before hook
+2016-11-04 10:30:31 [pages.LoginPage] ERROR:: topframe not visible
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'stpl-pc75', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.13.0-32-generic', java.version: '1.8.0_45'
+Driver info: driver.version: unknown
+2016-11-04 10:30:52 [stepDefinitions.AttachHooks] INFO :: Inside set up method of before hook
+2016-11-04 10:31:18 [pages.LoginPage] ERROR:: topframe not visible
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'stpl-pc75', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.13.0-32-generic', java.version: '1.8.0_45'
+Driver info: driver.version: unknown
